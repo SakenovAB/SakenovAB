@@ -5,6 +5,10 @@ sakenovab0710@gmail.com — предпочитаемый способ связи
 Проживает: Алматы
 Гражданство: Казахстан, есть разрешение на работу: Казахстан Готов к переезду, готов к командировкам
 
+<!--
+**SakenovAB/SakenovAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Желаемая должность и зарплата
 IOS разработчик
 Специализации:
@@ -46,9 +50,6 @@ JSON REST API
 Cocoa Pods
 Auto Layout
 Storyboard/Xib
-<!--
-**SakenovAB/SakenovAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
